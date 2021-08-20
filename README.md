@@ -34,10 +34,6 @@ A community maintained open source project aimed at making personal portfolio fo
 
 <p align="center"><img src="./readme_assets/Project_Page.gif"></p>
 
-### Research Page:
-
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
-
 ### Education Page:
 
 <p align="center"><img src="./readme_assets/Education_Page.gif"></p>

@@ -6,8 +6,8 @@ var cursor = {
     endY: (window.innerHeight / 2),
     cursorVisible: true,
     cursorEnlarged: false,
-    $dot: document.querySelector('.cursor-dot'),
-    $outline: document.querySelector('.cursor-dot-outline'),
+    // $dot: document.querySelector('.cursor-dot'),
+    // $outline: document.querySelector('.cursor-dot-outline'),
     
     init: function() {
         // Set up element sizes

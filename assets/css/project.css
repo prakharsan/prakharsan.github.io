@@ -303,7 +303,7 @@ a:hover {
 }
 
 .card input[type="checkbox"]:checked+.menu-content {
-    transform: translateY(-60px);
+    transform: translateY(-600px);
 }
 
 input[type="text"] {
