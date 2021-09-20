@@ -19,7 +19,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://drive.google.com/file/d/1jfXtCwvtCVe7spBkTXM-R0ymQBH6xttA/view?usp=sharing" target="_blank">Resume</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://drive.google.com/file/d/1A11jgjPnXi9SC0p7rgLOw1NlSv0LgNJt/view?usp=sharing" target="_blank">Resume</a></li>
    <li class="nav-item">
    <input type="checkbox" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
