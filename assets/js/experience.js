@@ -6,6 +6,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Analyst",
+    cardImage: "assets/images/experience-page/deutsche-logo.png",
+    place: "Deutsche Bank, Pune",
+    time: "(July, 2022 - Present )",
+    desp: "<li>Working for Contextual Banking in Corporate Banking Technology division as a Software Developer.Working for Contextual Banking in Corporate Banking Technology division as a Software Developer.</li>",
+  },
+  {
     title: "Software Development Intern",
     cardImage: "assets/images/experience-page/petasense.png",
     place: "Petasense, Bangalore",
