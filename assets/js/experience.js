@@ -6,7 +6,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Analyst",
+    title: "Software Development Engineer",
     cardImage: "assets/images/experience-page/deutsche-logo.png",
     place: "Deutsche Bank, Pune",
     time: "(July, 2022 - Present )",
