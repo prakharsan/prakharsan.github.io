@@ -16,7 +16,7 @@ const exp = [
     title: "Software Development Intern",
     cardImage: "assets/images/experience-page/petasense.png",
     place: "Petasense, Bangalore",
-    time: "(July, 2021 - December, 2021 )",
+    time: "(July, 2021 - July, 2022 )",
     desp: "<li>Petasense is an Industrial IoT startup based in San Jose, California. Customers can remotely monitor the health and performance of any industrial asset and predict failures before they happen. </li> <li>Worked on adding snooze feature for alarms that were generated for machines linked to the Petasense system via sensors.</li> <li>Technologies used React, Redux, JavaScript, Flask, PostgreSQL, SQLAlchemy, Celery, Postman, Bitbucket. </li>",
   },
   {
