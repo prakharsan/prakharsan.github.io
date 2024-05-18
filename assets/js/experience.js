@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/deutsche-logo.png",
     place: "Deutsche Bank, Pune",
     time: "(July, 2022 - Present )",
-    desp: "<li>Working for Contextual Banking in Corporate Banking Technology division as a Software Developer.Working for Contextual Banking in Corporate Banking Technology division as a Software Developer.</li>",
+    desp: "<li>Working for Contextual Banking in Corporate Banking Technology division as a Software Developer.</li>",
   },
   {
     title: "Software Development Intern",
