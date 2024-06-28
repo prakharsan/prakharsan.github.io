@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/deutsche-logo.png",
     place: "Deutsche Bank, Pune",
     time: "(July, 2022 - Present )",
-    desp: "<li>Deutsche Bank is a leading global investment bank headquartered in Frankfurt, Germany, offering a wide range of financial services including commercial banking, investment banking, asset management, and private banking. </li> <li>Working for Contextual Banking in Corporate Banking Technology division as a Software Developer. </li>",
+    desp: "<li>Deutsche Bank is a leading global investment bank headquartered in Frankfurt, Germany, offering a wide range of financial services including commercial banking, investment banking, asset management, and private banking. </li> <li>Working for Contextual Banking in Corporate Banking Technology division as a Software Developer. </li> <li>Technologies used React, Golang, PostgreSQL, GCP, Terraform. </li>",
   },
   {
     title: "Software Development Intern",
